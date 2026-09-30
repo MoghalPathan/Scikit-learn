@@ -1,0 +1,14 @@
+{
+  "model": "churn_pipeline",
+  "sklearn_version": "1.7.2",
+  "trained_rows": 1200,
+  "test_roc_auc": 0.7873,
+  "input_columns": [
+    "age",
+    "income",
+    "tenure",
+    "city",
+    "plan",
+    "complaints"
+  ]
+}
